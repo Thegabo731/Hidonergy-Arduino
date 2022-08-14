@@ -1,5 +1,5 @@
 # Hidonergy - Módulo wifi
-Aquí estarán el código utilizado para el proyecto "Hidronergy", en este caso es el código del Módulo wifi
+//Aquí estarán el código utilizado para el proyecto "Hidronergy", en este caso es el código del Módulo wifi
 
 #include <ESP8266WiFi.h>
 
