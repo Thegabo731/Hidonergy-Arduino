@@ -1,5 +1,5 @@
 # Hidonergy-Arduino
-Aquí estarán el código utilizado para el proyecto "Hidronergy", hablando principalmente del codigo realizado en Arduino.
+//Aquí estarán el código utilizado para el proyecto "Hidronergy", hablando principalmente del codigo realizado en Arduino.
 
 #include <Servo.h>
 
